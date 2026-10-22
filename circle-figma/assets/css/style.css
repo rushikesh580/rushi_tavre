@@ -1200,6 +1200,11 @@ footer .wave#wave4
     .ms {
     padding-top: 83px;
 }
+    a.whatsapp-button {
+    z-index: 9999999;
+    margin-bottom: 183px;
+    padding: 10px;
+}
 
     
 }
