@@ -175,7 +175,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background-image: url("/circle-figma/assets/images/rushi_tavre.jpeg");
+    background-image: url("assets\images\rushi_tavre2.jpeg");
     height: 100vh;
     color: #fff;
     min-height: 500px;
